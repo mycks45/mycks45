@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Mohammed Harshad pk
-- 👀 I’m interested in (web)
-- 🌱 I’m currently learning python django
-- 💞️ I’m looking to collaborate on ...
+- for every thing else go through my repo
 - 📫 How to reach me mycks45@gmail.com
 
 <!---
